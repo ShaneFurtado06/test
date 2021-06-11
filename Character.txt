@@ -3,3 +3,4 @@ Characters:
 2)Tortoise
 3)Lion
 4)Tiger
+5)Bear
