@@ -1,4 +1,5 @@
 Characters:   
 1)Rabbit
 2)Tortoise
-3)Others
+3)Lion
+4)Tiger
